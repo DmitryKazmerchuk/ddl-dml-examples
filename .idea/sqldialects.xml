@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/scripts/db-persons.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/scripts/search-age-27.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/scripts/search-moscow.sql" dialect="GenericSQL" />
+  </component>
+</project>
